@@ -1,4 +1,5 @@
 #!/bin/bash
+#author: Lavinia Stan
 fileName="$1";
 outputFile="$2";
 countLine=0;
